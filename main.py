@@ -1,4 +1,4 @@
-import turtle 
+import turtle //true
 
 def Color (t):
     max = 500;
